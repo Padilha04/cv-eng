@@ -1,2 +1,2 @@
 # cv-eng
-My personal CV
+My personal CV in English
